@@ -1,0 +1,20 @@
+Single
+10
+Double
+20
+Triple
+30
+Quad
+40
+Suites
+50
+Queen
+70
+King
+100
+Twin
+60
+Villa
+140
+Hollywood Twin Room
+200
